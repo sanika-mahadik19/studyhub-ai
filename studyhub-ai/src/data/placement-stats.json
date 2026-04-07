@@ -1,0 +1,32 @@
+{
+  "total": 215,
+  "placedTotal": 148,
+  "overallRate": "68.8",
+  "byDegree": {
+    "Sci&Tech": {
+      "total": 94,
+      "placed": 65,
+      "rate": "69.1",
+      "avgDegreeP": "68.4",
+      "avgSalary": "280000"
+    },
+    "Comm&Mgmt": {
+      "total": 113,
+      "placed": 80,
+      "rate": "70.8",
+      "avgDegreeP": "71.2",
+      "avgSalary": "295000"
+    },
+    "Others": {
+      "total": 8,
+      "placed": 3,
+      "rate": "37.5",
+      "avgDegreeP": "63.0",
+      "avgSalary": "250000"
+    }
+  },
+  "workexStats": {
+    "withWorkex": "86.2",
+    "withoutWorkex": "59.9"
+  }
+}
